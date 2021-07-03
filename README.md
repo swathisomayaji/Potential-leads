@@ -1,4 +1,4 @@
-# Potential-leads
+# Company-Potential-leads
 Leads which can be used by the company to target potential leads
 
 
